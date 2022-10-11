@@ -1,0 +1,28 @@
+{
+  "name": "tropa_digital",
+  "version": "1.0.0",
+  "description": "TESTE PRÁTICO - DESENVOLVEDOR BACK END",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Annefedy/TROPA-DIGITAL.git"
+  },
+  "author": "Anne Carine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Annefedy/TROPA-DIGITAL/issues"
+  },
+  "homepage": "https://github.com/Annefedy/TROPA-DIGITAL#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
